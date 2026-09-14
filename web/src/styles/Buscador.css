@@ -1,0 +1,11 @@
+input#buscar-pais{
+    background-color: #d3d8f9;
+    padding: 1.5%;
+    border-radius: 25px;
+    border: none;
+    margin-left: 40%;
+    width: 20%;
+    color:black;
+        border:2px solid #383a75;
+    margin-bottom: 2%;
+}

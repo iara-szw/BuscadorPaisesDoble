@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+a {
+    color: #e9e6ff;
+    text-decoration: none;
+    background-color: #082895;
+    padding: 1%;
+    border-radius: 20px;
+    width: 10%;
+}
