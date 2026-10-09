@@ -4,8 +4,7 @@
 Buscador de Países
 
 ## Integrantes
-- [Completar con los nombres de los integrantes del grupo]
-
+iara
 ## API utilizada
 La aplicación consume la API de Rest Countries:
 - https://restcountries.com/
